@@ -1,3 +1,2 @@
 # socials
-Webhook for socials - This is also a test right now to see if pushing updates also pushes to discord.
-Please?
+Webhook for socials - This is a package that can be installed and run locally by your machine
