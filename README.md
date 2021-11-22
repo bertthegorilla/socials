@@ -2,7 +2,7 @@
 Webhook for socials - This is a package that can be installed and run locally by your machine
 
 For Twitter:
-1. Set up a developer account at https://www.developer.twitter.com/
+1. Set up a developer account at https://developer.twitter.com/
 2. Save your credentials somewhere safe
 3. Add the following environment variables to your machine:
   
